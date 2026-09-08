@@ -21,7 +21,7 @@
   },
   "keywords": ["react-native", "GainsightPX", "Gainsight"],
   "author": "Gainsight",
-  "license": "",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": ">= 0.59.0"
   },
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gainsight/px-react-native-sdk"
+    "url": "https://github.com/Gainsight-Central/px-react-native-sdk"
   },
   "husky": {
     "hooks": {
